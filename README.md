@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋, I'm Chaofeng Chen (陈 超锋)
+[![](https://img.shields.io/badge/Personal-Homepage-blue)](https://chaofengc.github.io/)
+[![](https://img.shields.io/badge/Research-GoogleScholar-red)](https://scholar.google.com/citations?user=lxiqnI0AAAAJ&hl=en)
+- 🤗 I am currently a postdoctoral research fellow at S-Lab, NTU, working on quality assessment of images/videos.
+- 👨‍💻💻 I am actively seeking employment opportunities in the field of AIGC. 
+- 📧 Email me at: chaofenghust@gmail.com
 
 [![Chaofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaofengc)](https://github.com/chaofengc/github-readme-stats)
 
