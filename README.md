@@ -5,9 +5,11 @@
 - 👨‍💻💻 I am actively seeking employment opportunities in the field of AIGC. 
 - 📧 Email me at: chaofenghust@gmail.com
 
-[![Chaofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaofengc)](https://github.com/chaofengc/github-readme-stats)
 
 <!--
+
+[![Chaofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaofengc)](https://github.com/chaofengc/github-readme-stats)
+
 **chaofengc/chaofengc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
