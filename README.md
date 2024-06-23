@@ -7,9 +7,8 @@
 
 ### 🔥 Popular Research Repos
 - **Image Quality Assessment**:
-  - 🚀 [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/IQA-PyTorch?style=social) ![GitHub forks](https://img.shields.io/github/forks/chaofengc/IQA-PyTorch?style=social)
-  - [Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/Awesome-Image-Quality-Assessment?style=social)
-  - 📚 [TOPIQ (TIP2024)](https://github.com/chaofengc/IQA-PyTorch)
+  - 🚀 [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) 📚 [TOPIQ (TIP2024)](https://github.com/chaofengc/IQA-PyTorch) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/IQA-PyTorch?style=social) ![GitHub forks](https://img.shields.io/github/forks/chaofengc/IQA-PyTorch?style=social)
+  - 🗂 [Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/Awesome-Image-Quality-Assessment?style=social)
 - **Face Super Resolution**
   - 📑 [PSFRGAN (CVPR2021)](https://github.com/chaofengc/PSFRGAN) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/PSFRGAN?style=social)
   - 📚 [Face-SPARNet (TIP2020)](https://github.com/chaofengc/Face-SPARNet) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/Face-SPARNet?style=social)
