@@ -22,7 +22,7 @@
   - 📑 [PSFRGAN (CVPR2021)](https://github.com/chaofengc/PSFRGAN) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/PSFRGAN?style=social)
   - 📚 [Face-SPARNet (TIP2020)](https://github.com/chaofengc/Face-SPARNet) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/Face-SPARNet?style=social)
 - **General Image Super Resolution**
-  - 🌟 [FeMaSR (MM 2022 Oral)](https://github.com/chaofengc/FeMaSR) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/FeMaSR?style=social)
+  - 🌟 [FeMaSR (MM2022 Oral)](https://github.com/chaofengc/FeMaSR) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/FeMaSR?style=social)
   - 📑 [ITER (AAAI2024)](https://github.com/chaofengc/ITER) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/ITER?style=social)
 - **Image Generation**
   - 📑 [TexForce (ECCV2024)](https://github.com/chaofengc/TexForce) ![GitHub Repo stars](https://img.shields.io/github/stars/chaofengc/TexForce?style=social)
