@@ -7,8 +7,6 @@
 )](https://scholar.google.com/citations?user=lxiqnI0AAAAJ&hl=en)
 --->
 
-> 🤗 **I am currently a postdoctoral research fellow at S-Lab, NTU, working on quality assessment of images/videos.**
-
 <!--- 
 - 👨‍💻💻 I am actively seeking employment opportunities in the field of AIGC.
 --->
